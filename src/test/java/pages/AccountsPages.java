@@ -7,7 +7,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
 public class AccountsPages extends BasePage {
-    String URL = "https://ap16.lightning.force.com/lightning/o/Account/list?filterName=Recent";
+    String URL = "https://ap17.lightning.force.com/lightning/o/Account/list?filterName=Recent";
 
     public AccountsPages(WebDriver driver) {
         super(driver);
